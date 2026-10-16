@@ -69,4 +69,4 @@ reto calificable.
 
 ## URL del repositorio
 
-_(pendiente de publicar — ver siguiente paso)_
+https://github.com/Icebreaker26/laboratorio-lift-and-shift
